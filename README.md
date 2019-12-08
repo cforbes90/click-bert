@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e07022a1-bf65-4d47-9dfc-1760097ba470/deploy-status)](https://app.netlify.com/sites/pedantic-bose-3f892a/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
