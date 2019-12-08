@@ -47,7 +47,7 @@ class App extends Component {
       this.setState(this.state = newState)
     } else {
       newState.pickedChars.push(name)
-      newState.alertMessage = `GOOD CHOICE!`
+      newState.alertMessage = `GOOD CHOICE! Pick a another different one!`
       this.setState(this.state = newState)
     }
     cb(newState, this.alertWinner)
