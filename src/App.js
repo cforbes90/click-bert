@@ -78,7 +78,7 @@ class App extends Component {
 
           <GridMDC item lg={12}>
             <PaperMDC>
-              {this.state.alertMessage === "GOOD CHOICE!" ? (
+              {this.state.alertMessage === "GOOD CHOICE! Pick a another different one!" ? (
                 <Alert message={this.state.alertMessage} style={{ color: "green" }} />
               ) : (
                   <Alert message={this.state.alertMessage} style={{ color: "red" }} />
